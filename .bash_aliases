@@ -1,0 +1,1 @@
+/home/owlfus/.bash_aliases

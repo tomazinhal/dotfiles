@@ -1,0 +1,1 @@
+/home/owlfus/.config/hyper/.hyper.js
